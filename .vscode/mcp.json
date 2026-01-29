@@ -2,6 +2,15 @@
 	"servers": {
 		"svelte": {
 			"url": "https://mcp.svelte.dev/mcp"
+		},
+		"shadcn": {
+			"url": "https://shadcn-svelte.mastra.cloud/api/mcp/shadcn/sse"
+		},
+		"shadcnUI": {
+			"url": "http://localhost:7423/sse"
+		},
+		"shadcnUIDocs": {
+			"url": "https://gitmcp.io/shadcn/ui"
 		}
 	}
 }
